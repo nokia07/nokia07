@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi there 👋, Me llamo Erikson (Sony)
+Me llamo **Erikson (Sony)**
 #### 👨‍💻 Desarrollador de software
 ![👨‍💻 Desarrollador de software](https://github.com/nokia07/rest-countries/blob/main/creamos.png?raw=true)
 
@@ -10,7 +10,11 @@ services.
 
 Skills: JS / Java / Golang / SQL / AWS
 
+- 🔭 I’m currently working on https://jikkosoft.com/ 
+- 🌱 I’m currently learning AI-Python 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nokia07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/erikson-sanchez-rodriguez-b6676356//)  
 
 
 
