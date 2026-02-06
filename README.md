@@ -14,7 +14,7 @@ Skills: JS / Java / Golang / SQL / AWS
 - 🌱 I’m currently learning AI-Python 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nokia07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/erikson-sanchez-rodriguez-b6676356//)  
+[<img src='https://raw.githubusercontent.com/nokia07/nokia07/ffd95bdd3df42d186fa428be30463504766bbca4/github_icon.svg' alt='github' height='40'>](https://github.com/nokia07)  [<img src='https://raw.githubusercontent.com/nokia07/nokia07/ffd95bdd3df42d186fa428be30463504766bbca4/linkedin_icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/erikson-sanchez-rodriguez-b6676356/)  
 
 
 
